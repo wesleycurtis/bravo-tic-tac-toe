@@ -27,7 +27,7 @@ This app is a simple browser-based Tic Tac Toe experience designed as a beginner
 
 - GitHub Repository: [bravo-tic-tac-toe](https://github.com/wesleycurtis/bravo-tic-tac-toe.git)
 - GitHub Profile: [wesleycurtis](https://wesleycurtis.github.io/wesleycurtis/)
-- Wireframe / Planning Notes: [Game Wireframe](https://github.com/wesleycurtis/bravo-tic-tac-toe/wiki/Game-Wireframe
+- Wireframe / Planning Notes: [Game Wireframe](https://github.com/wesleycurtis/bravo-tic-tac-toe/wiki/Game-Wireframe)
 - Future Game Ideas: [Game Ideas](https://github.com/wesleycurtis/bravo-tic-tac-toe/issues/1)
 
 ### Project Structure
